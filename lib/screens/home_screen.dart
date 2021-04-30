@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
             floating: true,
             actions: [
               CircleButton(
-                  icon: Icons.search,
+                  icon: Icons.ac_unit,
                   iconSize: 30.0,
                   onPressed: () => print("search")),
               CircleButton(
